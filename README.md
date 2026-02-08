@@ -26,7 +26,8 @@ The following Dataset the following columns:
 ## Workflow of the project 
 ### 1.Database Creation :
       ```create database zepto; ```
-### 2.Importing the Database : The data was imported into MySQL using the Table Import Wizard for structured and efficient data loading.
+### 2.Importing the Database : 
+The data was imported into MySQL using the Table Import Wizard for structured and efficient data loading.
 
 ### 3.Data Exploration
 - Counted the total number of records in the dataset
@@ -58,5 +59,5 @@ The following Dataset the following columns:
 
 
 ## Some Extras
-I have also included a supporting document in the repository that outlines additional learnings and workflows explored during this project, covering both Excel-based data preparation techniques and GitHub documentation practices.
+I have also included a document named 'Learnings' in the repository that outlines additional learnings and workflows explored during this project, covering both Excel-based data preparation techniques and GitHub documentation practices.
  
