@@ -1,5 +1,5 @@
 # Zepto-inventory-analysis
-Overview of the project
+##Overview of the project
 
 This project is a learning-focused SQL analysis project created to strengthen my practical understanding of data analysis concepts using a real-world–style dataset. While working on this project, I actively explored multiple learning resources and platforms to understand best practices in data cleaning, exploration, and business-focused analysis.
 
